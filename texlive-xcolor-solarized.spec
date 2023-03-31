@@ -1,6 +1,6 @@
 Name:		texlive-xcolor-solarized
 Version:	61719
-Release:	1
+Release:	2
 Summary:	Defines the 16 colors from Ethan Schoonover's Solarized palette
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xcolor-solarized
