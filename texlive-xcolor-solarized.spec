@@ -3,7 +3,7 @@ Version:	61719
 Release:	2
 Summary:	Defines the 16 colors from Ethan Schoonover's Solarized palette
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xcolor-solarized
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/xcolor-solarized
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xcolor-solarized.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xcolor-solarized.doc.r%{version}.tar.xz
